@@ -3,7 +3,7 @@
 <h3 align="center">I'm an Electronics and Communication Engineer building intelligent systems using AI, IoT, and Embedded Systems.  </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anshu-mohanan20" target="_blank">
+  <a href="https://www.linkedin.com/in/anshu-mohanan2003/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -15,8 +15,8 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="anshumohanan3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-767676?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:anshumohanan3@gmail.com">
+  <img src="https://img.shields.io/badge/Email-767676?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
