@@ -3,19 +3,19 @@
 <h3 align="center">I'm an Electronics and Communication Engineer building intelligent systems using AI, IoT, and Embedded Systems.  </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/anshu-mohanan20" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+  <a href="https://x.com/AnshuMohanan" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/YOUR_USER_ID" target="_blank">
+  <a href="https://discord.com/users/anshu0343_47782" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="anshumohanan3@gmail.com">
     <img src="https://img.shields.io/badge/Email-767676?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
