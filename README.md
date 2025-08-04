@@ -17,7 +17,7 @@
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:anshumohanan3@gmail.com">
   <img src="https://img.shields.io/badge/Email-767676?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+</a>
 </p>
 
 ## ⚙️ About Me
@@ -95,15 +95,6 @@
 <a href="https://github.com/AnshuMohanan/stackup-teamplate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a>
-
-<details>
-  <summary><b>View All Projects</b></summary>
-    - [cite_start]**Automatic Crack Detection in Structures:** A system to detect structural cracks using strain gauge data and a trained neural network[cite: 17, 18]. [cite_start](Tools: Deep Learning, Python, ESP8266 [cite: 19])
-    - [cite_start]**Smart Traffic Management System:** Detects pedestrian flow to switch traffic lights using real-time video data, YOLOv5, and Arduino[cite: 20, 21, 22].
-    - [cite_start]**Gas Detector and Controller:** An IoT system using an MQ-5 sensor for gas leak detection with automated fan/valve control and real-time alerts via Blynk and Telegram[cite: 26, 27, 28].
-    - [cite_start]**Home Automation:** An automation system for home appliances controlled via Alexa and Blynk IoT[cite: 30, 31].
-    - [cite_start]**Water Level Controller:** An automated water level monitoring and control system using ultrasonic sensors and Blynk IoT[cite: 34, 35, 36].
-</details>
 
 ## 📊 My GitHub Activity & Language Stats
 
