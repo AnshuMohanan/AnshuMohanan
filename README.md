@@ -2,23 +2,18 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anshu Mohanan </h1>
 <h3 align="center">I'm an Electronics and Communication Engineer building intelligent systems using AI, IoT, and Embedded Systems.  </h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anshu-mohanan2003/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/AnshuMohanan" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/anshu0343_47782" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:anshumohanan3@gmail.com">
-  <img src="https://img.shields.io/badge/Email-767676?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshu-mohanan2003/)
+&nbsp;&nbsp;&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AnshuMohanan)
+&nbsp;&nbsp;&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/anshu0343_47782)
+&nbsp;&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-767676?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshumohanan3@gmail.com)
+
+</div>
+
 
 ## ⚙️ About Me
 - 🎓 I’m an **Electronics and Communication Engineer** with a **Minor in Machine Learning**. 
