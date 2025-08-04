@@ -10,7 +10,6 @@
 &nbsp;&nbsp;&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/anshu0343_47782)
 &nbsp;&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-767676?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshumohanan3@gmail.com)
 
 </div>
 
