@@ -84,10 +84,10 @@
 ## 🚀 Featured Projects
 
 <a href="https://github.com/AnshuMohanan/AnshuMohanan.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshuMohanan&repo=AnshuMohanan.github.io&theme=buefy" />
 </a>
 <a href="https://github.com/AnshuMohanan/stackup-teamplate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshuMohanan&repo=stackup-teamplate&theme=buefy" />
 </a>
 
 ## 📊 My GitHub Activity & Language Stats
