@@ -108,7 +108,7 @@
 
 ## 💼 Professional Experience
 
-**[Research Intern | Chang Gung University](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/TAIWAN_INTERSHIP_CERTIFICATE.pdf)** 🔗 <br>
+**[Research Intern | Chang Gung University](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/TAIWAN INTERSHIP CERTIFICATE.pdf)** 🔗 <br>
 *July 2024 - Sept 2024* | *Taiwan*
 
 - Developed FPGA-based digital systems using Verilog and VHDL and designed interfaced peripherals.
@@ -128,7 +128,7 @@
 
 ---
 
-**[Industrial Training | BSNL RTTC Trivandrum](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/BSNL_RTTC.pdf)** 🔗 <br>
+**[Industrial Training | BSNL RTTC Trivandrum](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/BSNL RTTC.pdf)** 🔗 <br>
 *Sept 2022*
 
 -  Gained practical exposure to telecom protocols and real-world network infrastructure.
@@ -138,7 +138,9 @@
 
 **[B.TECH in Electronics and Communication Engineering](https://github.com/AnshuMohanan/AnshuMohanan/blob/main/COLLEGE%20CERTIFICATE.pdf)** (Minor in Machine Learning) 🔗 <br>
 *Saintgits College of Engineering, Kottayam* <br>
-*Score: 70.5%* ---
+*Score: 70.5%*
+
+---
 
 **[Higher Secondary (12th Grade)](https://github.com/AnshuMohanan/AnshuMohanan/blob/main/CLASS-12%20CERTIFICATE.pdf)** 🔗 <br>
 *Good Shepherd Public School and Jr College, Changanassery* <br>
