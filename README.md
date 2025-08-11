@@ -108,7 +108,7 @@
 
 ## 💼 Professional Experience
 
-**Research Intern** | **Chang Gung University** <br>
+**[Research Intern | Chang Gung University](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/TAIWAN_INTERSHIP_CERTIFICATE.pdf)** 🔗 <br>
 *July 2024 - Sept 2024* | *Taiwan*
 
 - Developed FPGA-based digital systems using Verilog and VHDL and designed interfaced peripherals.
@@ -118,50 +118,51 @@
 
 ---
 
-**Full Stack Web Development Intern** | **Realweb** <br>
+**[Full Stack Web Development Intern | Realweb](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/REALWEB.pdf)** 🔗 <br>
 *Feb 2024 - Aug 2024*
 
-- Built and optimized web applications, focusing on developing responsive user interfaces.
+- Developed and optimized responsive user interfaces for web applications.
 - Utilized Figma for UI/UX design and translated designs into functional code using HTML and CSS.
 
 **Tech Stack:** `Figma` `HTML` `CSS`
 
 ---
 
-**Industrial Training** | **BSNL RTTC Trivandrum** <br>
+**[Industrial Training | BSNL RTTC Trivandrum](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/BSNL_RTTC.pdf)** 🔗 <br>
 *Sept 2022*
 
-- Gained practical exposure to telecom protocols and real-world network infrastructure.
+-  Gained practical exposure to telecom protocols and real-world network infrastructure.
 
+  
 ## 🎓 Education
 
-**B.TECH in Electronics and Communication Engineering** (Minor in Machine Learning) <br>
+**[B.TECH in Electronics and Communication Engineering](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/COLLEGE%20CERTIFICATE.pdf)** (Minor in Machine Learning) 🔗 <br>
 *Saintgits College of Engineering, Kottayam* <br>
 *Score: 70.5%* 
 
 ---
 
-**Higher Secondary (12th Grade)** <br>
+**[Higher Secondary (12th Grade)](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/CLASS-12%20CERTIFICATE.pdf)** 🔗 <br>
 *Good Shepherd Public School and Jr College, Changanassery* <br>
 *Score: 87%*
 
 ---
 
-**High School (10th Grade)** <br>
+**[High School (10th Grade)](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/CLASS-10%20CERTIFICATE.pdf)** 🔗 <br>
 *Placid Vidya Vihar Senior Secondary School, Changanassery* <br>
 *Score: 91.6%*
 
 ## 📜 Certifications & Workshops
 
-- **Verilog and FPGA Design** issued by *IEEE (Institute of Electrical and Electronics Engineers)*.
-- **Artificial Neural Network (ANN)** issued by *Manorama Horizon*.
-- Attended **Data Science Workshop** at *Ragam, NIT Calicut (National Institute of Technology Calicut)*.
-
+- **[Verilog and FPGA Design](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/Verilog%20and%20FPGA%20Design%20.pdf)** 🔗 issued by *IEEE (Institute of Electrical and Electronics Engineers)*.
+- **[Artificial Neural Network (ANN)](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/Artificial%20Neural%20Network%20(ANN)%20.pdf)** 🔗 issued by *Manorama Horizon*.
+- Attended **[Data Science Workshop](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/DATA%20SCIENCE%20WORKSHOP%20RAGAM.pdf)** 🔗 at *Ragam, NIT Calicut (National Institute of Technology Calicut)*.
+  
 ## 🏆 Achievements & Competitions
 
 -   **1st Prize** at the *Asthira 8.0 National Level Tech Fest* for showcasing the **Smart Animal Deterrent Device**.
--   **2nd Prize**  at Shrishti 2025 (Internal Competition) for the major project, **Automatic Crack Detection System in Structures Using Deep Learning**.
--   **3rd Prize** at the *Project Competition 2024* for presenting the same innovative **Smart Animal Deterrent Device**.
--   **Participant** at the *Innovate Hackathon (IEEE)*, where the team developed **Signify**, an AI-powered app to translate sign language.
--   **Exhibited** projects at multiple college and school-level tech events, including **Shrishti 2024** (**Smart Traffic Management Device**) and **Xpolsta 2023** (**Home Automation System**).
+-   **2nd Prize** at **[Shrishti 2025 (Internal Competition)](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/Shrishti%202025%20(Internal%20Competition).pdf)** 🔗 for the major project, **Automatic Crack Detection System in Structures Using Deep Learning**.
+-   **3rd Prize** at the **[Project Competition 2024](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/Project%20Competition%202024.pdf)** 🔗 for presenting the innovative **Smart Animal Deterrent Device**.
+-   **Participant** at the **[Innovate Hackathon (IEEE)](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/Innovate%20hackathon.pdf)** 🔗, where the team developed **Signify**, an AI-powered app to translate sign language.
+-   **Exhibited** projects at multiple college and school-level tech events, including **[Shrishti (Smart Traffic Management Device)](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/shrishti%20SMART%20TRAFFIC%20MANAGEMENT%20.pdf)** 🔗 and **[Shrishti (Smart Animal Deterrent Device)](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/shrishti%20(SMART%20ANIMAL%20DETERENT%20DEVICE).pdf)** 🔗.
 
