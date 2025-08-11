@@ -108,7 +108,7 @@
 
 ## 💼 Professional Experience
 
-**[Research Intern | Chang Gung University](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/TAIWAN INTERSHIP CERTIFICATE.pdf)** 🔗 <br>
+**[Research Intern | Chang Gung University](https://github.com/AnshuMohanan/AnshuMohanan/blob/main/TAIWAN%INTERSHIP%CERTIFICATE.pdf)** 🔗 <br>
 *July 2024 - Sept 2024* | *Taiwan*
 
 - Developed FPGA-based digital systems using Verilog and VHDL and designed interfaced peripherals.
@@ -118,7 +118,7 @@
 
 ---
 
-**[Full Stack Web Development Intern | Realweb](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/REALWEB.pdf)** 🔗 <br>
+**[Full Stack Web Development Intern | Realweb](https://github.com/AnshuMohanan/AnshuMohanan/blob/main/REALWEB.pdf)** 🔗 <br>
 *Feb 2024 - Aug 2024*
 
 - Developed and optimized responsive user interfaces for web applications.
@@ -128,7 +128,7 @@
 
 ---
 
-**[Industrial Training | BSNL RTTC Trivandrum](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/BSNL RTTC.pdf)** 🔗 <br>
+**[Industrial Training | BSNL RTTC Trivandrum](https://github.com/AnshuMohanan/AnshuMohanan/blob/main/BSNL%RTTC.pdf)** 🔗 <br>
 *Sept 2022*
 
 -  Gained practical exposure to telecom protocols and real-world network infrastructure.
