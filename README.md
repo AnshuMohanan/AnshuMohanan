@@ -136,19 +136,17 @@
   
 ## 🎓 Education
 
-**[B.TECH in Electronics and Communication Engineering](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/COLLEGE%20CERTIFICATE.pdf)** (Minor in Machine Learning) 🔗 <br>
+**[B.TECH in Electronics and Communication Engineering](https://github.com/AnshuMohanan/AnshuMohanan/blob/main/COLLEGE%20CERTIFICATE.pdf)** (Minor in Machine Learning) 🔗 <br>
 *Saintgits College of Engineering, Kottayam* <br>
-*Score: 70.5%* 
+*Score: 70.5%* ---
 
----
-
-**[Higher Secondary (12th Grade)](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/CLASS-12%20CERTIFICATE.pdf)** 🔗 <br>
+**[Higher Secondary (12th Grade)](https://github.com/AnshuMohanan/AnshuMohanan/blob/main/CLASS-12%20CERTIFICATE.pdf)** 🔗 <br>
 *Good Shepherd Public School and Jr College, Changanassery* <br>
 *Score: 87%*
 
 ---
 
-**[High School (10th Grade)](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/CLASS-10%20CERTIFICATE.pdf)** 🔗 <br>
+**[High School (10th Grade)](https://github.com/AnshuMohanan/AnshuMohanan/blob/main/CLASS-10%20CERTIFICATE.pdf)** 🔗 <br>
 *Placid Vidya Vihar Senior Secondary School, Changanassery* <br>
 *Score: 91.6%*
 
