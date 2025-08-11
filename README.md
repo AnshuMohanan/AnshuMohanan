@@ -153,15 +153,15 @@
 
 ## 📜 Certifications & Workshops
 
-- **[Verilog and FPGA Design](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/Verilog%20and%20FPGA%20Design%20.pdf)** 🔗 issued by *IEEE (Institute of Electrical and Electronics Engineers)*.
-- **[Artificial Neural Network (ANN)](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/Artificial%20Neural%20Network%20(ANN)%20.pdf)** 🔗 issued by *Manorama Horizon*.
-- Attended **[Data Science Workshop](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/DATA%20SCIENCE%20WORKSHOP%20RAGAM.pdf)** 🔗 at *Ragam, NIT Calicut (National Institute of Technology Calicut)*.
+- **[Verilog and FPGA Design](https://github.com/AnshuMohanan/AnshuMohanan/blob/main/Verilog%20and%20FPGA%20Design%20.pdf)** 🔗 issued by *IEEE (Institute of Electrical and Electronics Engineers)*.
+- **[Artificial Neural Network (ANN)](https://github.com/AnshuMohanan/AnshuMohanan/blob/main/Artificial%20Neural%20Network%20(ANN)%20.pdf)** 🔗 issued by *Manorama Horizon*.
+- Attended **[Data Science Workshop](https://github.com/AnshuMohanan/AnshuMohanan/blob/main/DATA%20SCIENCE%20WORKSHOP%20RAGAM.pdf)** 🔗 at *Ragam, NIT Calicut (National Institute of Technology Calicut)*.
   
 ## 🏆 Achievements & Competitions
 
 -   **1st Prize** at the *Asthira 8.0 National Level Tech Fest* for showcasing the **Smart Animal Deterrent Device**.
--   **2nd Prize** at **[Shrishti 2025 (Internal Competition)](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/Shrishti%202025%20(Internal%20Competition).pdf)** 🔗 for the major project, **Automatic Crack Detection System in Structures Using Deep Learning**.
--   **3rd Prize** at the **[Project Competition 2024](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/Project%20Competition%202024.pdf)** 🔗 for presenting the innovative **Smart Animal Deterrent Device**.
--   **Participant** at the **[Innovate Hackathon (IEEE)](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/Innovate%20hackathon.pdf)** 🔗, where the team developed **Signify**, an AI-powered app to translate sign language.
--   **Exhibited** projects at multiple college and school-level tech events, including **[Shrishti (Smart Traffic Management Device)](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/shrishti%20SMART%20TRAFFIC%20MANAGEMENT%20.pdf)** 🔗 and **[Shrishti (Smart Animal Deterrent Device)](https://github.com/AnshuMohanan/AnshuMohanan/raw/main/shrishti%20(SMART%20ANIMAL%20DETERENT%20DEVICE).pdf)** 🔗.
+-   **2nd Prize** at **[Shrishti 2025 (Internal Competition)](https://github.com/AnshuMohanan/AnshuMohanan/blob/main/Shrishti%202025%20(Internal%20Competition).pdf)** 🔗 for the major project, **Automatic Crack Detection System in Structures Using Deep Learning**.
+-   **3rd Prize** at the **[Project Competition 2024](https://github.com/AnshuMohanan/AnshuMohanan/blob/main/Project%20Competition%202024.pdf)** 🔗 for presenting the innovative **Smart Animal Deterrent Device**.
+-   **Participant** at the **[Innovate Hackathon (IEEE)](https://github.com/AnshuMohanan/AnshuMohanan/blob/main/Innovate%20hackathon.pdf)** 🔗, where the team developed **Signify**, an AI-powered app to translate sign language.
+-   **Exhibited** projects at multiple college and school-level tech events, including **[Shrishti (Smart Traffic Management Device)](https://github.com/AnshuMohanan/AnshuMohanan/blob/main/shrishti%20SMART%20TRAFFIC%20MANAGEMENT%20.pdf)** 🔗 and **[Shrishti (Smart Animal Deterrent Device)](https://github.com/AnshuMohanan/AnshuMohanan/blob/main/shrishti%20(SMART%20ANIMAL%20DETERENT%20DEVICE).pdf)** 🔗.
 
