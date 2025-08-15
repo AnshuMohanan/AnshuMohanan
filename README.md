@@ -83,11 +83,11 @@
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/AnshuMohanan/AnshuMohanan.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshuMohanan&repo=AnshuMohanan.github.io&theme=buefy" />
+<a href="https://github.com/AnshuMohanan/Automatic-Crack-Detection-System-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshuMohanan&repo=Automatic-Crack-Detection-System-&theme=buefy" />
 </a>
-<a href="https://github.com/AnshuMohanan/stackup-teamplate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshuMohanan&repo=stackup-teamplate&theme=buefy" />
+<a href="https://github.com/AnshuMohanan/ESP-Data-Bridge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnshuMohanan&repo=ESP-Data-Bridge&theme=buefy" />
 </a>
 
 ## 📊 My GitHub Activity & Language Stats
